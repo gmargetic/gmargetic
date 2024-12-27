@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Goran Margetić</h1>
 <h3 align="center">Full-stack Web and Software developer from Croatia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gogo1207&label=Profile%20views&color=0e75b6&style=flat" alt="gogo1207" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gogo1207&label=Profile%20views&color=0e75b6&style=flat" alt="gogo1207" /> <img src="https://komarev.com/ghpvc/?username=gmargetic&label=Profile%20views&color=0e75b6&style=flat" alt="gmargetic" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmargetic" alt="gmargetic" /></a> </p>
 
