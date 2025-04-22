@@ -37,12 +37,13 @@ Whether it’s brainstorming crazy ideas, building the next big thing, or just c
 
 ---
 
-🚀 Let’s build the future, one crazy idea at a time!
+🚀 **Let’s build the future, one crazy idea at a time!**
 🐛 **Its not a bug its an undocumented feature!**
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gogo1207&label=Profile%20views&color=0e75b6&style=flat" alt="gogo1207" /> <img src="https://komarev.com/ghpvc/?username=gmargetic&label=Profile%20views&color=0e75b6&style=flat" alt="gmargetic" /> </p>
+[<p align="left"> <img src="https://komarev.com/ghpvc/?username=gogo1207&label=Profile%20views&color=0e75b6&style=flat" alt="gogo1207" /> <img src="https://komarev.com/ghpvc/?username=gmargetic&label=Profile%20views&color=0e75b6&style=flat" alt="gmargetic" /> </p>
+](https://github-profile-trophy.vercel.app/?username=gmargetic)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmargetic" alt="gmargetic" /></a> </p>
 
