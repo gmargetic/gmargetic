@@ -1,8 +1,8 @@
 # Hi there, I'm Goran Margetić. 👋
 
-### Full-Stack Software Engineer & System Architect
+### Full-Stack Software Developer & System Architect
 
-I specialize in **Enterprise Web Engineering**, building robust, scalable, and secure solutions for businesses that have outgrown off-the-shelf software. My focus is on long-term maintainability, performance optimization, and pragmatic technology choices.
+I specialize in **Enterprise Web Development**, building robust, scalable, and secure solutions for businesses that have outgrown off-the-shelf software. My focus is on long-term maintainability, performance optimization, and pragmatic technology choices.
 
 ---
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=3293ff9900a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
@@ -29,7 +29,7 @@ I believe in choosing the right tool for the job—prioritizing stability and de
 
 ---
 
-### 💡 Engineering Philosophy
+### 💡 Development Philosophy
 
 > *"Quality is not an act, it is a habit."*
 
